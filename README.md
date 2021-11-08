@@ -10,8 +10,6 @@ Cơ chế lưu trữ phiên bản của Git là nó sẽ tạo ra một “*ản
 
 ## Tạo repository trên Github và làm việc
 
-token: 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
-
 - Tạo repo trên github: https://github.com/$user-name/$repository
 - clone cái kho chứa này về máy bằng lệnh `git clone https://<token>@github.com/$user-name/$repository`.
 - Truy cập vào thư mục working tree `cd repositoryName`
